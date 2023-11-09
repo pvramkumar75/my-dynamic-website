@@ -1,5 +1,5 @@
 // Replace 'YOUR_GOOGLE_SHEET_LINK' with the link you obtained from Step 2
-const googleSheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQEk3sGVZPWddYWfYTWrm9dD66iqNgwPZ1DVJTC8XwsRfjpydyOiOTmVgPLUEd61I_j5bEiMbdgZOSL/pubhtml?gid=1434420516&single=true';
+const googleSheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQEk3sGVZPWddYWfYTWrm9dD66iqNgwPZ1DVJTC8XwsRfjpydyOiOTmVgPLUEd61I_j5bEiMbdgZOSL/pubhtml';
 
 // Function to fetch data from Google Sheet
 async function fetchData() {
